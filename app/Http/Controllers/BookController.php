@@ -72,5 +72,6 @@ class BookController extends Controller
     public function destroy($id)
     {
         $this->_bookRepository->destroy($id);
+        return response()->json();
     }
 }

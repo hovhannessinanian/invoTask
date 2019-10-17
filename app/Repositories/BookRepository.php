@@ -64,6 +64,6 @@ class BookRepository implements BookRepositoryInterface
 
     public function destroy(int $id)
     {
-        Book::findOrFail($id)->detele();
+        Book::findOrFail($id)->delete();
     }
 }
