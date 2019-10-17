@@ -1,4 +1,4 @@
-<p><a href="https://web.postman.co/collections/1708727-bf9ac686-c74a-4801-ac14-9eb7130e34ff?workspace=6cab30c9-762a-4285-8d52-4284b58ca48b">find postman docs here </a></p>   
+<p><a href="https://documenter.getpostman.com/view/1708727/SVtZvRvj">find postman docs here </a></p>   
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
